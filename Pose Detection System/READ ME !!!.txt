@@ -1,0 +1,5 @@
+Better to run in PyCharm for automatic settings of required modules.
+you can also run in VScode but need install the respective module, pips, etc.
+
+As you run, a automatic access for the system camera is given to capture your movements, in order detect the poses you make,
+Using bone points.
